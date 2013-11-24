@@ -1,4 +1,3 @@
-
 public class Star {
 
 	/**
@@ -9,7 +8,8 @@ public class Star {
 		Treibstoff diesel = new Treibstoff();
 		
 		diesel.setTreibstoffname("Telletubies");
-		System.out.println(diesel.getmTreibstoffname());
+		System.out.println(diesel.getmTreibstoffname());$
+		lolipop
 	}
 
 }
