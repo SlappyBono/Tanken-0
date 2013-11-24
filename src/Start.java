@@ -9,7 +9,7 @@ public class Star {
 		
 		diesel.setTreibstoffname("Telletubies");
 		System.out.println(diesel.getmTreibstoffname());$
-		lolipop
+		
 	}
 
 }
